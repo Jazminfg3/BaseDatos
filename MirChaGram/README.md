@@ -64,9 +64,6 @@
 1. Los **users** siguen **follows** (1 - M)
 1. Los **users** tienen un **countries** (1 - M)
 
-<!-- ENUM('Hombre', 'Mujer', 'No Binario') -->
-<!-- Listado: tipo de dato para evitar crear un catalogo (menos de 5 valores) -->
-
 ## Diagramas
 
 ### Modelo Relacional de la BD

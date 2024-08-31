@@ -1,7 +1,5 @@
 # PeliSeries
 
-<!-- https://www.imdb.com/search/title/?genres -->
-
 ## Listado de Entidades
 
 ### peliculas **ED**
@@ -84,10 +82,6 @@ nombre
 - Un **episodio** pertenece a **temporada** (1 - M)
 - **Peliculas** pertenecen a **generos** (M - M)
 - **Series** pertenecen a **generos** (M - M)
-
-<!-- Observaciones: -->
-
-<!-- las relaciones van con la llave FK -->
 
 ## Diagrama
 

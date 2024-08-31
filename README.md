@@ -13,3 +13,16 @@
 10. Identifica los tipos de datos de los atributos de las entidades del sistema 
 11. Identifica los atributos que puedan ser únicos en el sistema 
 12. Identifica las reglas de negocio (Operaciones CRUD) del sistema
+
+<!-- Relaciones pivote son de mucho a muchos -->
+<!-- Base de Datos ocupa snake_case y no debemos poner acentos -->
+
+<!-- ENUM('Hombre', 'Mujer', 'No Binario') -->
+<!-- Listado: tipo de dato para evitar crear un catalogo (menos de 5 valores) -->
+
+<!-- Observaciones: -->
+
+<!-- las relaciones van con la llave FK -->
+
+<!-- Nombre de entidades se escriben en plurales  -->
+<!-- donde alla llaves foraneas es donde debe haber una relación  -->

@@ -42,11 +42,7 @@
 * nombre
 * dominio **(UQ)**
 
-<!-- Nombre de entidades se escriben en plurales  -->
-
 ## Relaciones
-
-<!-- donde alla llaves foraneas es donde debe haber una relación  -->
 
 * Un **cliente** tiene **pais** (1 - 1)
 * Un **cliente** genera **venta** (1 - m)

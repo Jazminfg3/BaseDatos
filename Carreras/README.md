@@ -59,24 +59,6 @@ UQ = Campo Unico
 
 [![modelo-relacional.png](https://i.postimg.cc/Fs7R0zYM/modelo-relacional.png)](https://postimg.cc/MvJqSWb5)
 
-
-INT = Entero <br>
-VARCHAR() = Cadenas de texto <br>
-DATE = Fecha <br>
-TIME = Hora <br>
-DATETIME = Fecha y hora <br>
-
-
-<!-- Base de Datos ocupa snake_case y no debemos poner acentos -->
-
-<!-- Diferencias entre VARCHAR() y CHAR()
-
-VARCHAR(): Almacena cadenas de longitud variable hasta un máximo definido (Ahorra espacio ya que usa solo lo necesario para cada cadena)
-
-CHAR() Almacena cadenas de longitudd fija, si una cadena es más corta se rellena hasta alcanzar la longitud definida  
-
-VARCHAR() solo acepta hasta 255 caracteres, si queremos cadenas de mas de 255 caracteres ponemos TEXT que nos permite mas de 255 caracteres -->
-
 ## Reglas de Negocio
 
 ### Carreras
@@ -103,4 +85,3 @@ VARCHAR() solo acepta hasta 255 caracteres, si queremos cadenas de mas de 255 ca
 1. Leer todos los registros de la entidad paises
 1. Actualizar los datos de un pais dada una condición en particular
 1. Elimimar los datos de un pais dada una condición en partucular 
-

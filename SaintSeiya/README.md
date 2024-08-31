@@ -214,5 +214,3 @@
 1. Crear un mxp
 1. Leer los medios de un personaje 
 1. Eliminar un mxp
-
-<!-- maestro: llave foranea de la misma entidad personajes -->

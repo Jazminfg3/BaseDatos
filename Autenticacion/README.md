@@ -95,5 +95,3 @@
 1. Leer un pxr en particular 
 1. Leer todos los pxr de un rol
 1. Eliminar un pxr
-
-<!-- Relaciones pivote son de mucho a muchos -->
